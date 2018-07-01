@@ -1,5 +1,5 @@
 # ALC_Quiz_App
-![Alt text](https://github.com/AbetiAbebe/ALC_Quiz_App/Screenshot_1530479375.png?raw=true "Optional Title")
+![Alt text](https://raw.github.com/AbetiAbebe/ALC_Quiz_App/Screenshot_1530479375.png?raw=true "Optional Title")
 
 
 Link for the Quiz App on G-drive
